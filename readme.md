@@ -135,14 +135,6 @@ expense-tracker/
 ### WhatsApp Integration
 All contact points use WhatsApp API for instant communication:
 
-```html
-<!-- Example WhatsApp integration -->
-<!-- <a href="https://api.whatsapp.com/send?phone=923196977218&text=Hello%20Usama%21%20I'm%20interested%20in%20your%20app%20development%20services."
-   target="_blank"
-   class="btn btn-success">
-   💬 WhatsApp Inquiry
-</a> -->
-```
 
 **Pre-filled messages for each package:**
 - Basic Package: Inquiry about Rs 75,000 package
