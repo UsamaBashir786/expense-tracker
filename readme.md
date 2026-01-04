@@ -31,6 +31,11 @@ A professional expense tracking web application with integrated mobile app devel
 - **Downloadable Proposal**: HTML proposal with all contact details
 - **Multi-channel Contact**: WhatsApp, Email, Phone options
 
+### preview
+![preview](assets/img/1.png)
+![preview](assets/img/2.png)
+
+
 ## 🚀 Quick Start
 
 ### Installation
