@@ -183,23 +183,6 @@ define('DB_NAME', 'expense_tracker');
 define('DB_USER', 'your_username');
 define('DB_PASSWORD', 'your_password');
 ```
-
-### Contact Information
-Update your details in the modal component:
-```html
-<!-- Update these in the modal -->
-<span class="font-semibold text-foreground">+92 319 6977218</span>
-<span class="font-semibold text-foreground">usamapubg50@gmail.com</span>
-```
-
-### WhatsApp Links
-Customize pre-filled messages in the modal:
-```javascript
-// Customize inquiry messages
-const basicPackageMsg = "Hello Usama! I'm interested in the Basic Package...";
-const proPackageMsg = "Hello Usama! I'm interested in the Pro Package...";
-```
-
 ## 📈 Usage
 
 ### 1. Expense Tracking
